@@ -1,3 +1,5 @@
 SELECT Distinct
       fc.[Claim_SK]
-  FROM [National_Analytics].[dbo].[FACT_CLAIM] fc
+
+FROM [National_Analytics].[dbo].[FACT_CLAIM] fc
+Where fc.[Region] = 'REGiON I'
