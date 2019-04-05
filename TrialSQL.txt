@@ -1,0 +1,3 @@
+SELECT Distinct
+      fc.[Claim_SK]
+  FROM [National_Analytics].[dbo].[FACT_CLAIM] fc
