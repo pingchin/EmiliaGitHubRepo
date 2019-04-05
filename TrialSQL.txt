@@ -5,3 +5,5 @@ FROM [National_Analytics].[dbo].[FACT_CLAIM] fc
 Where fc.[Region] = 'REGiON I'
 
 YES!
+
+HELLO IT IS PING
