@@ -3,3 +3,5 @@ SELECT Distinct
 
 FROM [National_Analytics].[dbo].[FACT_CLAIM] fc
 Where fc.[Region] = 'REGiON I'
+
+YES!
